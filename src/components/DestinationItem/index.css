@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.place-image {
+  height: 150px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.list-item-container {
+  list-style-type: none;
+}
